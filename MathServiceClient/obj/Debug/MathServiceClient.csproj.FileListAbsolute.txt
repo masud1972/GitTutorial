@@ -1,0 +1,10 @@
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\bin\Debug\MathServiceClient.exe.config
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\bin\Debug\MathServiceClient.exe
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\bin\Debug\MathServiceClient.pdb
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\obj\Debug\MathServiceClient.csprojResolveAssemblyReference.cache
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\obj\Debug\MathServiceClient.Form1.resources
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\obj\Debug\MathServiceClient.Properties.Resources.resources
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\obj\Debug\MathServiceClient.csproj.GenerateResource.Cache
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\obj\Debug\MathServiceClient.csproj.CoreCompileInputs.cache
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\obj\Debug\MathServiceClient.exe
+C:\Masud\WCF\My Test\MathServiceDemo\MathServiceClient\obj\Debug\MathServiceClient.pdb

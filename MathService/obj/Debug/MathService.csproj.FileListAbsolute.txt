@@ -1,0 +1,6 @@
+C:\Masud\WCF\My Test\MathServiceDemo\MathService\bin\MathService.dll.config
+C:\Masud\WCF\My Test\MathServiceDemo\MathService\bin\MathService.dll
+C:\Masud\WCF\My Test\MathServiceDemo\MathService\bin\MathService.pdb
+C:\Masud\WCF\My Test\MathServiceDemo\MathService\obj\Debug\MathService.csproj.CoreCompileInputs.cache
+C:\Masud\WCF\My Test\MathServiceDemo\MathService\obj\Debug\MathService.dll
+C:\Masud\WCF\My Test\MathServiceDemo\MathService\obj\Debug\MathService.pdb
