@@ -22,5 +22,11 @@ namespace MathService
         {
             return (obj.Number1 - obj.Number2);
         }
+
+
+        public int Multi(MyNumbers obj)
+        {
+            return (obj.Number1 * obj.Number2);
+        }
     }
 }

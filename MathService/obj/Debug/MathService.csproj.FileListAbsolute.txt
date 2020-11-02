@@ -4,3 +4,9 @@ C:\Masud\WCF\My Test\MathServiceDemo\MathService\bin\MathService.pdb
 C:\Masud\WCF\My Test\MathServiceDemo\MathService\obj\Debug\MathService.csproj.CoreCompileInputs.cache
 C:\Masud\WCF\My Test\MathServiceDemo\MathService\obj\Debug\MathService.dll
 C:\Masud\WCF\My Test\MathServiceDemo\MathService\obj\Debug\MathService.pdb
+C:\Masud\GitTutorial\MathService\obj\Debug\MathService.csproj.CoreCompileInputs.cache
+C:\Masud\GitTutorial\MathService\obj\Debug\MathService.dll
+C:\Masud\GitTutorial\MathService\obj\Debug\MathService.pdb
+C:\Masud\GitTutorial\MathService\bin\MathService.dll.config
+C:\Masud\GitTutorial\MathService\bin\MathService.dll
+C:\Masud\GitTutorial\MathService\bin\MathService.pdb

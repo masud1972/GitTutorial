@@ -18,6 +18,9 @@ namespace MathService
         [OperationContract]
         int Subtract(MyNumbers obj);
 
+        [OperationContract]
+        int Multi(MyNumbers obj);
+
     }
 
 
